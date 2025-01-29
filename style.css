@@ -272,15 +272,15 @@ figure p {
 }
 
 .img-of-pencil {
-  background-image: url("pencil-alt-solid.svg");
+  background-image: url("media/pencil-alt-solid.svg");
 }
 
 .img-of-desktop {
-  background-image: url("desktop-solid.svg");
+  background-image: url("media/desktop-solid.svg");
 }
 
 .img-of-bullsyes {
-  background-image: url("bullseye-solid.svg");
+  background-image: url("media/bullseye-solid.svg");
 }
 
 /* Sekce AWARDS */
@@ -293,7 +293,7 @@ figure p {
 }
 
 .trophy-img {
-  background-image: url("trophy-solid.svg");
+  background-image: url("media/trophy-solid.svg");
   width: 50px;
   height: 50px;
   margin-top: 1em;
@@ -409,15 +409,15 @@ time {
 }
 
 .map-market-img {
-  background-image: url("map-marker-alt-solid.svg");
+  background-image: url("media/map-marker-alt-solid.svg");
 }
 
 .email-img {
-  background-image: url("envelope-regular.svg");
+  background-image: url("media/envelope-regular.svg");
 }
 
 .mobile-img {
-  background-image: url("mobile-alt-solid.svg");
+  background-image: url("media/mobile-alt-solid.svg");
 }
 
 .form-grid {
@@ -508,11 +508,11 @@ button {
 }
 
 .twitter-logo {
-  background-image: url("twitter-square-brands.svg");
+  background-image: url("media/twitter-square-brands.svg");
 }
 
 .facebook-logo {
-  background-image: url("facebook-square-brands.svg");
+  background-image: url("media/facebook-square-brands.svg");
 }
 
 @media (min-width: 360px) and (max-width: 959px) {
