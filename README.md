@@ -7,3 +7,5 @@ Tento repozitář obsahuje jednoduchou webovou stránku vytvořenou pomocí HTML
 - <strong> index.html </strong> - Soubor obsahující základní strukturu stránky. 
 - <strong> style.css </strong> - Soubor se styly pro vizuální úpravu stránky.
 - <strong> index.html </strong> - Soubor obsahující grafické přílohy použíté na stránce.
+
+Just testing pull
